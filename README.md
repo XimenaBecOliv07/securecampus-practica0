@@ -10,3 +10,6 @@ Diseñar, construir, asegurar, probar y documentar una aplicación aplicando pr�
 
 - XIMENA BECERRIL OLIVARES
 
+## Seguridad
+
+SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
